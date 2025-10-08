@@ -10,9 +10,9 @@
 Saya adalah seorang developer yang suka belajar hal baru, terutama di bidang web development, pemrograman backend, dan teknologi open-source. Saya percaya bahwa belajar adalah proses seumur hidup 🚀
 
 - 🌱 Saat ini sedang belajar: `Node.js`, `TypeScript`, dan `Docker`
-- 💬 Tanya saya tentang apa saja, saya akan bantu semampu saya!
-- 📫 Kontak saya: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: Saya suka ngoding sambil dengerin musik 🎧
+- 💬 Tanya saya tentang apa saja, saya tidak akan bantu karna bukan urusan saya!
+- 📫 Kontak saya: [alfialfi138@gmail.com](alfiLFI138@gmail.com)
+- ⚡ Fun fact: Saya suka main emel sambil dengerin musik 🎧
 
 ---
 
